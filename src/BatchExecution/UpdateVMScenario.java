@@ -101,7 +101,7 @@ public class UpdateVMScenario extends BrowserConfig{
 			
 			if(Control.equalsIgnoreCase("Y")){
 //				fC.AIMSLaunchApplication(driver);
-				fC.UpdateVirtualMachine_Delete(driver, ProjectInformation, Project, PrimaryDatacenter, PrimaryCloudPlatform, TypeofDecommission, VcenterHost, ESXIHOST, SelectCluster, SelectServer);
+//				fC.UpdateVirtualMachine_Delete(driver, ProjectInformation, Project, PrimaryDatacenter, PrimaryCloudPlatform, TypeofDecommission, VcenterHost, ESXIHOST, SelectCluster, SelectServer);
 //				fC.getRequestNumber(driver);	
 //				fL.SwitchFrames(driver, prop.getProperty("MainframeID"), "", "", "", "", "");
 //				String RequestText = fC.getRequestID(driver, prop.getProperty("RequestLinkID"));
